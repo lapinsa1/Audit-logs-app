@@ -1,0 +1,10 @@
+{
+     "userKey": "YOUR_USER_KEY",
+     "secretKey": "YOUR_SECRET_KEY",
+     "apiKeys": [
+       { "name": "Site A", "value": "3_YOUR_API_KEY_1" },
+       { "name": "Site B", "value": "3_YOUR_API_KEY_2" }
+     ]
+   }
+
+   
